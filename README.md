@@ -5,3 +5,6 @@
 *  Destructuracion
 * callback
 * callback hell
+* Promesas
+* Asyn-Await
+
